@@ -1,0 +1,30 @@
+
+.product-card {
+    padding-bottom: 20px;
+    margin-bottom: 32px;
+}
+
+.product-title {
+    margin-top: 20px;
+    font-size: 18px;
+    margin-right: 0;
+    margin-left: 24px;
+    line-height: 34px;
+    letter-spacing: 0px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.product-detail {
+    text-align: left;
+    font-size: 14px;
+    line-height: 22px;
+    color: rgb(9, 9, 10);
+    margin-left: 24px;
+}
+
+.product-card i {
+    color: #56c6c6;
+    font-size: xx-large;
+    margin-left: 23px;
+}
